@@ -56,5 +56,7 @@ Diagramme de composants :
 
 ![Diagramme de composants](images/diagramme-composants.png)
 
+## Code Java
+Le code Java a été généré automatiquement à partir du modèle de conception avec IBM Rational Software Architect. Il se trouve dans le dossier PressingJava (classes Client, Commande, Vetement, ControleurCommande, UIMenu et UICommande).
 ## Rapport
 Le rapport du projet est dans le dossier docs.
